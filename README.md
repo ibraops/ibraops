@@ -1,36 +1,24 @@
-# Hi, I'm Ibrahim 🛡️
+<h1 align="center">Hi, I'm Ibrahim 👋</h1>
+<h3 align="center">Network & Security Engineer · Cloud-Native Infrastructure</h3>
 
-**Network & Security Engineer · Cloud-Native Infrastructure**
-
-> *"Securing the cloud, one packet and one container at a time."*
-
----
+<br/>
 
 ## 🚀 What I Do
 
-- **Network & Cloud Security** — Next-gen architectures, threat propagation modeling, securing distributed environments
-- **Pragmatic Automation** — Python & Bash scripting to eliminate manual overhead. If it's repetitive, I automate it
-- **Continuous Growth** — Preparing for an MSc in Cybersecurity while deepening expertise in cloud architecture
+- 🔒 **Network & Cloud Security** — Threat modeling, next-gen architectures, securing distributed environments
+- ⚙️ **Automation** — Python & Bash scripting. If it's repetitive, I automate it
+- 📚 **Continuous Growth** — Preparing for an MSc in Cybersecurity
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Tools |
-|---|---|
-| ☁️ Cloud & DevOps | AWS · Azure · Kubernetes · Terraform · Ansible |
-| 🔒 Networking & Infosec | Routing & Switching · Firewalls · Threat Modeling |
-| 🖥️ Scripting & OS | Python · Bash · Linux (Ubuntu) |
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
----
-
-## ♟️ Beyond the Terminal
-
-When offline, I'm sharpening analytical thinking over a game of **Chess** or optimizing workflows for continuous learning.
-
----
-
-## 🤝 Connect
-
-- 💼 **LinkedIn:** [linkedin.com/in/ibrahim-SSID](https://www.linkedin.com/in/ibrahim-SSID)
-- 📧 **Email:** ibrahem7884026@gmail.com
+### 🔒 Networking & Security
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)

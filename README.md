@@ -24,14 +24,6 @@ A passionate **Network Engineer** transitioning and expanding into **Cloud Archi
 
 ---
 
-### 📊 Current Projects & Contributions
-
-- 🤖 **Automated Reservation System:** Developed a full-stack automation workflow using **Google Apps Script**, **Google Sheets API**, and **Telegram Bots** to manage student booking limits and real-time status updates.
-- 🔒 **Threat Propagation Modeling:** Simulating and analyzing complex distributed network architectures to proactively mitigate security vulnerabilities.
-- 🛠️ **Infrastructure as Code:** Building reusable Terraform modules and Ansible playbooks to bridge the gap between traditional networking and cloud native scaling.
-
----
-
 ### 🧩 Beyond Tech
 
 When I'm not configuring clusters or auditing network logs, you'll probably find me:

@@ -1,33 +1,36 @@
+# Hi, I'm Ibrahim 🛡️
 
-# Hi, I'm a Network & Security Engineer 🛡️🌐
+**Network & Security Engineer · Cloud-Native Infrastructure**
 
-I am a Network Engineer focusing on **Cybersecurity** and **Cloud-Native Infrastructure**. I don't just configure environments; I love to automate them, bridge traditional networking with cloud scaling, and build tools that solve real-world problems.
-
----
-
-### 🚀 What I Actually Do
-
-- **Network & Cloud Security:** Studying next-gen network architectures, threat propagation modeling, and securing distributed environments.
-- **Pragmatic Automation:** Writing Python and Bash scripts to eliminate manual overhead. If a task is repetitive, I automate it.
-- **Continuous Growth:** Preparing for advanced studies (Master's in Cybersecurity) while continuously expanding my technical depth in cloud architecture and next-gen network security.
+> *"Securing the cloud, one packet and one container at a time."*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 What I Do
 
-- **Cloud & DevOps:** AWS, Azure, Kubernetes, Terraform, Ansible
-- **Networking & Infosec:** Routing & Switching, Firewalls, Threat Modeling
-- **Scripting & OS:** Python, Bash, Linux (Ubuntu)
----
-
-### ♟️ Beyond the Terminal
-
-When I'm offline, I'm usually sharpening my analytical thinking over a game of **Chess** or optimizing my workflows for continuous learning.
+- **Network & Cloud Security** — Next-gen architectures, threat propagation modeling, securing distributed environments
+- **Pragmatic Automation** — Python & Bash scripting to eliminate manual overhead. If it's repetitive, I automate it
+- **Continuous Growth** — Preparing for an MSc in Cybersecurity while deepening expertise in cloud architecture
 
 ---
-### 🤝 Connect with Me
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/ibrahim-SSID]
-- 📧 **Email:** [ibrahem7884026@gmail.com]
+## 🛠️ Tech Stack
 
-*“Securing the cloud, one packet and one container at a time.”*
+| Category | Tools |
+|---|---|
+| ☁️ Cloud & DevOps | AWS · Azure · Kubernetes · Terraform · Ansible |
+| 🔒 Networking & Infosec | Routing & Switching · Firewalls · Threat Modeling |
+| 🖥️ Scripting & OS | Python · Bash · Linux (Ubuntu) |
+
+---
+
+## ♟️ Beyond the Terminal
+
+When offline, I'm sharpening analytical thinking over a game of **Chess** or optimizing workflows for continuous learning.
+
+---
+
+## 🤝 Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/ibrahim-SSID](https://www.linkedin.com/in/ibrahim-SSID)
+- 📧 **Email:** ibrahem7884026@gmail.com

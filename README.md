@@ -1,37 +1,30 @@
-# Hi there, I'm a Network & Security Engineer! 👋
 
-A passionate **Network Engineer** transitioning and expanding into **Cloud Architecture and Security Engineering**. I specialize in securing distributed systems, implementing Infrastructure as Code (IaC), and automating complex network environments.
+# Hi, I'm a Network & Security Engineer 🛡️🌐
+
+I am a Network Engineer focusing on **Cybersecurity** and **Cloud-Native Infrastructure**. I don't just configure environments; I love to automate them, bridge traditional networking with cloud scaling, and build tools that solve real-world problems.
 
 ---
 
-### 🚀 About Me
+### 🚀 What I Actually Do
 
-- 🎓 **Academic Background:** Studying Network Engineering with a strong focus on Cybersecurity.
-- 🎯 **Current Focus:** Pursuing a Master's degree in Cybersecurity & mastering Cloud-Native Application Architectures through the **Learn to Cloud (L2C)** roadmap.
-- ⚙️ **What I Do:** Build automated infrastructure, design secure network baselines, and model threat propagation to prevent failures in next-gen networks.
-- 🧠 **Learning Strategy:** Huge fan of structured learning and building daily consistency using active recall and Anki spaced-repetition.
+- **Network & Cloud Security:** Studying next-gen network architectures, threat propagation modeling, and securing distributed environments.
+- **Pragmatic Automation:** Writing Python and Bash scripts to eliminate manual overhead. If a task is repetitive, I automate it.
+- **Continuous Growth:** Preparing for advanced studies (Master's in Cybersecurity) while continuously expanding my technical depth in cloud architecture and next-gen network security.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Cloud & DevOps** | AWS, Azure, Kubernetes, Terraform, Ansible |
-| **Networking & Security** | Routing/Switching, Firewalls, Threat Modeling, Network Security |
-| **Automation & OS** | Python, Bash Scripting, Linux (Ubuntu) |
-| **Observability** | Prometheus, Grafana |
-
+- **Cloud & DevOps:** AWS, Azure, Kubernetes, Terraform, Ansible
+- **Networking & Infosec:** Routing & Switching, Firewalls, Threat Modeling
+- **Scripting & OS:** Python, Bash, Linux (Ubuntu)
 ---
 
-### 🧩 Beyond Tech
+### ♟️ Beyond the Terminal
 
-When I'm not configuring clusters or auditing network logs, you'll probably find me:
-- Analyzing strategies on a **Chess** board ♟️
-- Optimizing my Anki decks for long-term knowledge retention.
+When I'm offline, I'm usually sharpening my analytical thinking over a game of **Chess** or optimizing my workflows for continuous learning.
 
 ---
-
 ### 🤝 Connect with Me
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/ibrahim-SSID]

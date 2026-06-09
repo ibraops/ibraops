@@ -72,10 +72,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibraops&show_icons=true&theme=default&hide_border=true&title_color=3B6D11&icon_color=639922&text_color=444441)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibraops&layout=compact&hide_border=true&title_color=3B6D11&text_color=444441)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ibraops&hide_border=true&ring=639922&fire=3B6D11&currStreakLabel=3B6D11)
 
 </div>

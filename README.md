@@ -84,28 +84,14 @@
 
 ## 🎯 Current Focus
 
-```python
-class Ibrahim:
-    def __init__(self):
-        self.role        = "Network & Security Engineer"
-        self.location    = "Palestine 🇵🇸"
-        self.education   = "MSc Cybersecurity (incoming)"
-
-    @property
-    def currently_working_on(self):
-        return [
-            "Zero Trust network architecture",
-            "Cloud security automation with Python",
-            "Threat modeling for distributed systems",
-        ]
-
-    @property
-    def ask_me_about(self):
-        return ["networking", "cloud security", "DevSecOps", "automation"]
-
-    def fun_fact(self):
-        return "I think in packets and dream in YAML ♟️"
-```
+- **🗺️ Location:** Palestine 🇵🇸
+- **🎓 Next Step:** MSc in Cybersecurity (Incoming)
+- **⚡ Active Projects:**
+  - Architecting **Zero Trust** network baselines.
+  - Building **Cloud Security** automation tools with Python.
+  - Threat modeling for distributed architectures.
+- **💬 Ask Me About:** Networking, Cloud Security, DevSecOps, and Automation.
+- **♟️ Fun Fact:** I think in packets and dream in YAML.
 
 ---
 

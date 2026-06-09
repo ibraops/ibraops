@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm a Network & Security Engineer! 👋
 
-<!--
-**ibraops/ibraops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Network Engineer** transitioning and expanding into **Cloud Architecture and Security Engineering**. I specialize in securing distributed systems, implementing Infrastructure as Code (IaC), and automating complex network environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 **Academic Background:** Studying Network Engineering with a strong focus on Cybersecurity.
+- 🎯 **Current Focus:** Pursuing a Master's degree in Cybersecurity & mastering Cloud-Native Application Architectures through the **Learn to Cloud (L2C)** roadmap.
+- ⚙️ **What I Do:** Build automated infrastructure, design secure network baselines, and model threat propagation to prevent failures in next-gen networks.
+- 🧠 **Learning Strategy:** Huge fan of structured learning and building daily consistency using active recall and Anki spaced-repetition.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Cloud & DevOps** | AWS, Azure, Kubernetes, Terraform, Ansible |
+| **Networking & Security** | Routing/Switching, Firewalls, Threat Modeling, Network Security |
+| **Automation & OS** | Python, Bash Scripting, Linux (Ubuntu) |
+| **Observability** | Prometheus, Grafana |
+
+---
+
+### 📊 Current Projects & Contributions
+
+- 🤖 **Automated Reservation System:** Developed a full-stack automation workflow using **Google Apps Script**, **Google Sheets API**, and **Telegram Bots** to manage student booking limits and real-time status updates.
+- 🔒 **Threat Propagation Modeling:** Simulating and analyzing complex distributed network architectures to proactively mitigate security vulnerabilities.
+- 🛠️ **Infrastructure as Code:** Building reusable Terraform modules and Ansible playbooks to bridge the gap between traditional networking and cloud native scaling.
+
+---
+
+### 🧩 Beyond Tech
+
+When I'm not configuring clusters or auditing network logs, you'll probably find me:
+- Analyzing strategies on a **Chess** board ♟️
+- Optimizing my Anki decks for long-term knowledge retention.
+
+---
+
+### 🤝 Connect with Me
+
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/ibrahim-SSID]
+- 📧 **Email:** [ibrahem7884026@gmail.com]
+
+*“Securing the cloud, one packet and one container at a time.”*

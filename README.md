@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ibrahim
-**Cybersecurity Student · Aspiring Network & Cloud Security Engineer**
+**Cloud Engineering Student · Interested in Security & Infrastructure**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-SSID)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrahem7884026@gmail.com)
@@ -11,7 +11,7 @@
 
 ---
 
-Cybersecurity student passionate about network security, cloud infrastructure, and automation. I build small projects to apply what I learn — currently focused on Zero Trust concepts and cloud security fundamentals.
+Cloud engineering student fascinated by how large-scale infrastructure is built, secured, and automated. I enjoy understanding how complex systems work — and finding where they break. Currently learning the foundations of cloud architecture, networking, and DevOps while building small hands-on projects.
 
 > *"Trust nothing. Verify everything. Automate the rest."*
 
@@ -19,29 +19,30 @@ Cybersecurity student passionate about network security, cloud infrastructure, a
 
 ## Currently Learning
 
-- Cloud security fundamentals — AWS & Azure
-- Network security — Zero Trust architecture & firewall design
-- DevSecOps — integrating security into CI/CD pipelines
-- Scripting — automating security tasks with Python & Bash
+- Cloud fundamentals — AWS & Azure architecture
+- Networking — routing, segmentation, and Zero Trust concepts
+- Infrastructure as Code — Terraform & Ansible
+- Containers & orchestration — Docker & Kubernetes
+- CI/CD pipelines — automating builds and deployments with GitHub Actions
+- Scripting — Python & Bash for automation
 
 ---
 
 ## Tools & Technologies
 
-**Cloud & DevOps**
+**Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Security & Networking**
+**Networking & Security**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 
 **Scripting & OS**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,16 +57,23 @@ Cybersecurity student passionate about network security, cloud infrastructure, a
 - **Cisco CCNA** — Networking fundamentals
 - **CompTIA Security+** — Security baseline
 - **AWS Solutions Architect** — In progress
-- **CEH** — Certified Ethical Hacker — In progress
 
 ---
 
 ## Goals
 
 - [ ] Complete AWS Solutions Architect certification
-- [ ] Earn CEH certification
-- [ ] Build a home lab for penetration testing practice
-- [ ] Pursue MSc in Cybersecurity (2027)
+- [ ] Build and document a home lab environment
+- [ ] Deploy a full cloud infrastructure project end-to-end
+- [ ] Pursue MSc in Cybersecurity (2026)
+
+---
+
+## Beyond the Terminal
+
+When I'm not studying or writing code, I play chess — it sharpens the same skills that matter in engineering: pattern recognition, thinking several moves ahead, and staying calm under pressure.
+
+I'm also drawn to complex systems — how large-scale architectures behave, how failures cascade, and what makes a system resilient or fragile.
 
 ---
 

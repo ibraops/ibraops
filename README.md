@@ -65,7 +65,7 @@ Cloud engineering student fascinated by how large-scale infrastructure is built,
 - [ ] Complete AWS Solutions Architect certification
 - [ ] Build and document a home lab environment
 - [ ] Deploy a full cloud infrastructure project end-to-end
-- [ ] Pursue MSc in Cybersecurity (2026)
+- [ ] Pursue MSc in Cybersecurity (2027)
 
 ---
 

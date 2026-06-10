@@ -14,8 +14,8 @@
 Network & security engineer focused on cloud-native infrastructure, DevSecOps, and automation. Currently building security tooling with Python and architecting Zero Trust network baselines.
 
 - **Location:** Palestine 🇵🇸
-- **Goal:** MSc in Cybersecurity (2026)
-- **Philosophy:** If it's repetitive, automate it.
+- **Goal:** MSc in Cybersecurity (2027)
+- **Philosophy:** Trust nothing. Verify everything. Automate the rest.
 
 ---
 
@@ -64,7 +64,6 @@ Network & security engineer focused on cloud-native infrastructure, DevSecOps, a
 - **Cisco CCNA** — Networking fundamentals
 - **CompTIA Security+** — Security baseline
 - **AWS Solutions Architect** — In progress
-- **CEH** — Certified Ethical Hacker — In progress
 - **MSc Cybersecurity** — Graduate target 2026
 
 ---
